@@ -1,0 +1,168 @@
+# depslib dependency file v1.0
+1462549166 source:c:\users\aspire\desktop\20160427\matrixvector\main.cpp
+	"test.h"
+	"matrix.h"
+	"vector.h"
+
+1462870899 c:\users\aspire\desktop\20160427\matrixvector\test.h
+	"cppunitlite/TestHarness.h"
+	<string>
+	<algorithm>
+	"matrix.h"
+	"vector.h"
+
+1021612118 c:\users\aspire\desktop\20160427\matrixvector\cppunitlite\testharness.h
+	"Test.h"
+	"TestResult.h"
+	"Failure.h"
+	"TestRegistry.h"
+
+1034763710 c:\users\aspire\desktop\20160427\matrixvector\cppunitlite\test.h
+	<cmath>
+	"SimpleString.h"
+
+1034765034 c:\users\aspire\desktop\20160427\matrixvector\cppunitlite\simplestring.h
+
+1021612138 c:\users\aspire\desktop\20160427\matrixvector\cppunitlite\testresult.h
+
+1021612138 c:\users\aspire\desktop\20160427\matrixvector\cppunitlite\failure.h
+	"SimpleString.h"
+
+1021612118 c:\users\aspire\desktop\20160427\matrixvector\cppunitlite\testregistry.h
+
+1462870730 c:\users\aspire\desktop\20160427\matrixvector\matrix.h
+	"cppunitlite/TestHarness.h"
+	<string>
+	<algorithm>
+	<sstream>
+	<iostream>
+	"vector.h"
+
+1462545911 c:\users\aspire\desktop\20160427\matrixvector\vector.h
+	"cppunitlite/TestHarness.h"
+	<string>
+	<algorithm>
+	<sstream>
+	<iostream>
+	"enter.h"
+
+1463159941 c:\users\aspire\desktop\20160427\matrixvector\enter.h
+	"cppunitlite/TestHarness.h"
+	<string>
+	<algorithm>
+	<sstream>
+	<iostream>
+
+1463249409 source:c:\users\aspire\desktop\c++\20160427\matrixvector\main.cpp
+	"test.h"
+	"matrix.h"
+	"vector.h"
+	"enter.h"
+
+1464029989 c:\users\aspire\desktop\c++\20160427\matrixvector\test.h
+	"cppunitlite/TestHarness.h"
+	<string>
+	<algorithm>
+	"matrix.h"
+	"vector.h"
+	"enter.h"
+
+1021612118 c:\users\aspire\desktop\c++\20160427\matrixvector\cppunitlite\testharness.h
+	"Test.h"
+	"TestResult.h"
+	"Failure.h"
+	"TestRegistry.h"
+
+1034763710 c:\users\aspire\desktop\c++\20160427\matrixvector\cppunitlite\test.h
+	<cmath>
+	"SimpleString.h"
+
+1034765034 c:\users\aspire\desktop\c++\20160427\matrixvector\cppunitlite\simplestring.h
+
+1021612138 c:\users\aspire\desktop\c++\20160427\matrixvector\cppunitlite\testresult.h
+
+1021612138 c:\users\aspire\desktop\c++\20160427\matrixvector\cppunitlite\failure.h
+	"SimpleString.h"
+
+1021612118 c:\users\aspire\desktop\c++\20160427\matrixvector\cppunitlite\testregistry.h
+
+1462870730 c:\users\aspire\desktop\c++\20160427\matrixvector\matrix.h
+	"cppunitlite/TestHarness.h"
+	<string>
+	<algorithm>
+	<sstream>
+	<iostream>
+	"vector.h"
+
+1463249725 c:\users\aspire\desktop\c++\20160427\matrixvector\vector.h
+	"cppunitlite/TestHarness.h"
+	<string>
+	<algorithm>
+	<sstream>
+	<iostream>
+
+1463285231 c:\users\aspire\desktop\c++\20160427\matrixvector\enter.h
+	"cppunitlite/TestHarness.h"
+	<string>
+	<algorithm>
+	<sstream>
+	<iostream>
+	"test.h"
+
+1463249409 source:c:\users\aspire\desktop\c++\matrixvector\main.cpp
+	"test.h"
+	"matrix.h"
+	"vector.h"
+	"enter.h"
+
+1464367893 c:\users\aspire\desktop\c++\matrixvector\test.h
+	"cppunitlite/TestHarness.h"
+	<string>
+	<algorithm>
+	"matrix.h"
+	"vector.h"
+	"enter.h"
+
+1021612118 c:\users\aspire\desktop\c++\matrixvector\cppunitlite\testharness.h
+	"Test.h"
+	"TestResult.h"
+	"Failure.h"
+	"TestRegistry.h"
+
+1034763710 c:\users\aspire\desktop\c++\matrixvector\cppunitlite\test.h
+	<cmath>
+	"SimpleString.h"
+
+1034765034 c:\users\aspire\desktop\c++\matrixvector\cppunitlite\simplestring.h
+
+1021612138 c:\users\aspire\desktop\c++\matrixvector\cppunitlite\testresult.h
+
+1021612138 c:\users\aspire\desktop\c++\matrixvector\cppunitlite\failure.h
+	"SimpleString.h"
+
+1021612118 c:\users\aspire\desktop\c++\matrixvector\cppunitlite\testregistry.h
+
+1464367855 c:\users\aspire\desktop\c++\matrixvector\matrix.h
+	"cppunitlite/TestHarness.h"
+	<string>
+	<algorithm>
+	<sstream>
+	<iostream>
+	<list>
+	"vector.h"
+
+1463249725 c:\users\aspire\desktop\c++\matrixvector\vector.h
+	"cppunitlite/TestHarness.h"
+	<string>
+	<algorithm>
+	<sstream>
+	<iostream>
+
+1464365035 c:\users\aspire\desktop\c++\matrixvector\enter.h
+	"cppunitlite/TestHarness.h"
+	<string>
+	<algorithm>
+	<sstream>
+	<iostream>
+	"test.h"
+
